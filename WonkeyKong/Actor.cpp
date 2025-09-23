@@ -3,8 +3,6 @@
 #include <cmath>
 #include <algorithm>
 
-// Students:  Add code to this file, Actor.h, StudentWorld.h, and StudentWorld.cpp
-
 // Actor Implementation
 Actor::Actor(int imageID,
              int startX,

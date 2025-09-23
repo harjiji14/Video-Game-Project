@@ -10,8 +10,6 @@ GameWorld* createStudentWorld(string assetPath)
     return new StudentWorld(assetPath);
 }
 
-// Students:  Add code to this file, StudentWorld.h, Actor.h, and Actor.cpp
-
 StudentWorld::StudentWorld(string assetPath)
 : GameWorld(assetPath), m_player(nullptr) {}
 
